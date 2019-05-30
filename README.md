@@ -1,2 +1,0 @@
-# simpleapp
-Created with CodeSandbox
