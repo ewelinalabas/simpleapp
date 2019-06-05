@@ -1,7 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import Navbar from "./Navbar";
-import Note from "./Note";
+import Notes from "./Notes";
 
 import "./styles.css";
 
@@ -10,7 +10,7 @@ function App() {
     <div className="App">
       <Navbar />
       <br />
-      <Note />
+      <Notes />
     </div>
   );
 }
